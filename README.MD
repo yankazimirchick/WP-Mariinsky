@@ -1,0 +1,4 @@
+# hotel-template
+---
++ Wordpress
++ Responsive
